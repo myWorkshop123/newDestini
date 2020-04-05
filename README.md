@@ -1,6 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Destini
 
 ## Our Goal
